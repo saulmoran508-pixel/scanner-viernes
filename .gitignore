@@ -1,0 +1,8 @@
+# Archivos de datos y modelos pesados
+*.pkl
+*.npy
+model_stats.json
+
+# Opcional: si tienes carpetas, también puedes ponerlas
+# __pycache__/
+# .env
